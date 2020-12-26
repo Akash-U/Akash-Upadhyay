@@ -7,4 +7,4 @@
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 * Built a client facing API using flask.
 
-![](https://github.com/Akash-U/Akash_Portfolio/blob/master/images/positions_by_state.png)
+![](/images/positions_by_state.png)
