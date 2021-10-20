@@ -10,9 +10,9 @@
 ![](/images/positions_by_state.png)
 
 ## Project 2: Health Inspection and Monitoring App
-* Developing an application that provides optimal communication between patients and doctors which will benefit them to connect with each other for their appointments and consultations.
+* Developed an application that provides optimal communication between patients and doctors which will benefit them to connect with each other for their appointments and consultations.
 * This system reduces time spent in managing records, reduces error and allows doctors to have a higher quality interaction with their patients.
-* The development is done using Java and MySQL.
+* The app was developed using using Java and MySQL.
 
 ## Project 3: Hotel Management
 * A simple program which lays out numerous facilities provided by a hotel while also enabling the customer to book a room as per his requirement.
