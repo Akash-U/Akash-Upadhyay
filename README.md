@@ -9,12 +9,22 @@
 
 ![](/images/positions_by_state.png)
 
-## Project 2: Health Inspection and Monitoring App
-* Developed an application that provides optimal communication between patients and doctors which will benefit them to connect with each other for their appointments and consultations.
-* This system reduces time spent in managing records, reduces error and allows doctors to have a higher quality interaction with their patients.
-* The app was developed using using Java and MySQL.
+## Project 2: UTA Recruitment App
+* Developed a native Android application using Java for UTA students to find on campus jobs categorized department wise with an easy application process.
+* Accelerated the process of development by 30%, creating the screens and REST APIs while working with the backend team.
+* Designed and maintained the database using Microsoft SQL server. Unit tested each component of the application.
 
-## Project 3: Hotel Management
-* A simple program which lays out numerous facilities provided by a hotel while also enabling the customer to book a room as per his requirement.
-* The hotel also runs a restaurant service; thus, the program lists out the food menu wherein the customer can order the food of his choice.
-* The program was developed with the help of C programming language.
+## Project 3: Cloud based Storage Application
+* Created a simplified cloud-based storage application like Google Drive focused on concurrent programming with continuous file syncing as change is detected.
+* Implemented multi-threading and exception handling to improve application functionality and involved in connecting database to servlets.
+* Enhanced code quality to improve the performance of the application leading to a 25% reduction in the number of bugs.
+
+## Project 4: Siremar
+* A website for Siremar Housing where Super Admins, Managers, Residents, and visitors manage their portals and services for almost 500 users.
+* Successfully designed the web pages using JavaScript and React and created a blog for the website using WordPress.
+* Maintained the database using PhpMyAdmin, MySQL and created Laravel APIs.
+
+## Project 5: Campaign Management App
+* Built an app that lets users run a Mailing List by targeting individuals using their Age, Gender, and Location.
+* Created an analysis tool for understanding user needs based on which links they click in the email sent.
+* Hosted our app on Google Cloud using Kubernetes and Docker.
