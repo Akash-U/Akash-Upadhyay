@@ -8,21 +8,26 @@
 ![](/images/positions_by_state.png)
 
 ## Project 2: UTA Recruitment App
-* Developed a native Android application using Java for UTA students to find on campus jobs categorized department wise with an easy application process.
-* Accelerated the process of development by 30%, creating the screens and REST APIs while working with the backend team.
-* Designed and maintained the database using Microsoft SQL server. Unit tested each component of the application.
+* Created a Java-based native Android application targeting UTA students, enabling them to discover on-campus job opportunities categorized by department, with a streamlined application process.
+* Enhanced development efficiency by 30% through collaborative work with the backend team, responsible for creating screens and REST APIs.
+* Orchestrated the design and maintenance of the application's Microsoft SQL server database, ensuring optimal performance and data integrity.
+* Conducted thorough unit testing for each component of the application, ensuring high-quality and bug-free functionality.
 
 ## Project 3: Cloud based Storage Application
-* Created a simplified cloud-based storage application like Google Drive focused on concurrent programming with continuous file syncing as change is detected.
-* Implemented multi-threading and exception handling to improve application functionality and involved in connecting database to servlets.
-* Enhanced code quality to improve the performance of the application leading to a 25% reduction in the number of bugs.
+* Developed a cloud-based storage application, similar to Google Drive, with a specific emphasis on concurrent programming and real-time file syncing.
+* Utilized multi-threading and robust exception handling techniques to enhance application functionality and ensure smooth execution.
+* Successfully connected the application's database to servlets, enabling seamless data transfer and interaction.
+* Enhanced code quality through optimization efforts, resulting in a notable 25% decrease in the occurrence of bugs.
+* Contributed to improved application performance, resulting in a more efficient and reliable user experience.
 
 ## Project 4: Siremar
-* A website for Siremar Housing where Super Admins, Managers, Residents, and visitors manage their portals and services for almost 500 users.
-* Successfully designed the web pages using JavaScript and React and created a blog for the website using WordPress.
-* Maintained the database using PhpMyAdmin, MySQL and created Laravel APIs.
+* Developed a comprehensive website for Siremar Housing, catering to the needs of Super Admins, Managers, Residents, and visitors, serving a user base of approximately 500 individuals.
+* Designed and implemented web pages using JavaScript and React, ensuring an intuitive and seamless user experience.
+* Created a WordPress-powered blog integrated into the website, facilitating effective content management and engagement.
+* Oversaw database management activities using PhpMyAdmin and MySQL, ensuring efficient data storage and retrieval.
+* Developed Laravel APIs to facilitate seamless communication and integration between different components of the website.
 
 ## Project 5: Campaign Management App
-* Built an app that lets users run a Mailing List by targeting individuals using their Age, Gender, and Location.
-* Created an analysis tool for understanding user needs based on which links they click in the email sent.
-* Hosted our app on Google Cloud using Kubernetes and Docker.
+* Developed a personalized Mailing List application that enables targeted outreach to individuals based on their Age, Gender, and Location.
+* Designed and implemented an analysis tool to gain insights into user preferences by tracking link clicks within the emails sent.
+* Deployed the application on Google Cloud using Kubernetes and Docker, ensuring scalability, reliability, and efficient resource management.
